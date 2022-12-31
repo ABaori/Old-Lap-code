@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Aarav",
+        "Paper": "CT1",
+        "data": [
+            {
+                "subject": "Maths",
+                "marks": 38,
+                "total_marks": 40,
+                "percent": 95.0
+            },
+            {
+                "subject": "Physics",
+                "marks": 35,
+                "total_marks": 35,
+                "percent": 100.0
+            },
+            {
+                "subject": "English",
+                "marks": 35,
+                "total_marks": 40,
+                "percent": 87.5
+            },
+            {
+                "subject": "Chemistry",
+                "marks": 35,
+                "total_marks": 35,
+                "percent": 100.0
+            },
+            {
+                "subject": "Computer",
+                "marks": 35,
+                "total_marks": 35,
+                "percent": 100.0
+            }
+        ]
+    },
+    {
+        "name": "Aarav",
+        "Paper": "CT1",
+        "data": [
+            {
+                "subject": "Maths",
+                "marks": 38,
+                "total_marks": 40,
+                "percent": 95.0
+            },
+            {
+                "subject": "Physics",
+                "marks": 34,
+                "total_marks": 35,
+                "percent": 97.14285714285714
+            },
+            {
+                "subject": "English",
+                "marks": 3740,
+                "total_marks": 3800,
+                "percent": 98.42105263157895
+            },
+            {
+                "subject": "Chemistry",
+                "marks": 24,
+                "total_marks": 25,
+                "percent": 96.0
+            },
+            {
+                "subject": "Computer",
+                "marks": 25,
+                "total_marks": 25,
+                "percent": 100.0
+            }
+        ]
+    }
+]
